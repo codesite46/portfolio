@@ -1,2 +1,2 @@
-# portfolio
-The website contain e-portfolio.
+# Portfolio
+php, JS, CSS
