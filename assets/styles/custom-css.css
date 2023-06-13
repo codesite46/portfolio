@@ -234,6 +234,7 @@ section {
 .header-content .right-header .sub-title {
   font-size: 1.5rem;
   justify-content: center;
+  margin: 5px 5px 5px 5px;
   padding: 5px 5px 5px 5px;
 }
 
