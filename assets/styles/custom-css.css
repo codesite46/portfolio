@@ -185,7 +185,7 @@ section {
 
 .header-content .left-header .home-left {
   width: 55%;
-  margin: 5rem 5rem 5rem 15rem;
+  margin: 5rem 5rem 5rem 5rem;
   /* padding: 8rem, 8rem; */
   border-radius: 25px;
   border: 2px solid var(--color-secondary);
